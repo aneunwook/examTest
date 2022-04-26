@@ -4,7 +4,8 @@ public class Dog extends Animal {
 
 	@Override
 	public void makeSound() {
-		System.out.println("�۸�.");
+		// 한글로 뜨지 않아서 멍멍으로 수작업 했습니다.
+		System.out.println("멍멍");
 		
 	}
 	
